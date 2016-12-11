@@ -1,0 +1,14 @@
+body {
+	text-align: center;
+}
+
+input {
+	width: 40%;
+	height: 20px;
+}
+
+#submitBtn {
+	font-size: 15px;
+	width: 8%;
+	height: 25px;
+}
