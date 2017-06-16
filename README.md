@@ -1,5 +1,6 @@
 # simpletodolist
 
+#### A simple project I work on as I attempt ReactJS!
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
